@@ -13,8 +13,7 @@ html,body{
 body{
     font-size: 1.6rem;
     font-family: 'Thasadith', sans-serif;
-    letter-spacing: 2px;
-   color: #fff;
+    letter-spacing: 2px;   
     }
 img{
     width: 100%;
@@ -27,8 +26,17 @@ section{
     margin: auto;
     padding: 0 15px;
 }
+a{
+    text-decoration: none;
+}
 h1{
     color:#e9d35b;
     font-size: 7rem;
     margin-bottom: 30px;
+}
+h2{
+    text-align: center;
+}
+header{
+    padding: 10px 0;
 }
