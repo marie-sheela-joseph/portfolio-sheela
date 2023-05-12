@@ -4,8 +4,8 @@ function Footer() {
   return (
     <section className={styles.footer}>
         <ul>
-            <li><i class="fa-brands fa-square-github"></i></li>
-            <li><i class="fa-brands fa-linkedin"></i></li>            
+        <a href='https://github.com/marie-sheela-joseph' target='_blank'><li><i class="fa-brands fa-square-github"></i></li></a>
+        <a href='https://www.linkedin.com/in/marie-sheela-joseph-louis-selvaraj/' target='_blank'><li><i class="fa-brands fa-linkedin"></i></li></a>
         </ul>
     </section>
   )

@@ -1,0 +1,17 @@
+.projects{
+    background: #f0f0f0;
+    margin-top: 88px;
+}
+.projects >h2{
+    color: #3e497a;    
+    padding: 20px 0;
+}
+.projects__content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.projects__header{
+    background: #3e497a;
+    
+}
