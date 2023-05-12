@@ -1,0 +1,11 @@
+.banner{
+    height: 80vh;
+    background-color: #3e497a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.banner p{
+    max-width: 500px;
+    margin: auto;
+}

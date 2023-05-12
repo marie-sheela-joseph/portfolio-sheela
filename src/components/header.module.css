@@ -1,0 +1,30 @@
+.header{
+    background: #3e497a;
+    padding: 10px 0;
+ position: fixed;
+    top: 0; 
+    left:0;
+    right:0
+}
+.header nav ul{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+.header nav a{    
+    color: #f0f0f0;
+    padding: 0 10px;
+    text-decoration: none;
+    font-size: 2rem;
+}
+.header nav a:hover{
+    color: #e9d35b;
+}
+.header__content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header__content img{
+    width: 150px;
+}
