@@ -1,6 +1,8 @@
-.footer{
-    background: #3e497a;
+.footer{    
+    background: #f0f0f0;
+    color: #3e497a;
     padding: 10px 0;
+    border-top: 3px solid #f0f0f0;
 }
 .footer ul{
     list-style-type: none;

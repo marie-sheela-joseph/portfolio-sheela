@@ -1,10 +1,12 @@
 .header{    
     background: #3e497a;
+    color: #3e497a;
     padding: 20px 0;
     position: fixed;
     top: 0; 
     left:0;
-    right:0
+    right:0;
+    border-bottom:1px solid #f0f0f0;
 }
 .header nav ul{
     display: flex;
@@ -15,7 +17,7 @@
     color: #f0f0f0;
     margin: 0 25px;
     text-decoration: none;
-    font-size: 2rem;
+    font-size: 3rem;
     font-weight: bolder;
 }
 .header a:hover{
