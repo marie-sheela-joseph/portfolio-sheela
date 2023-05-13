@@ -1,28 +1,32 @@
 .banner{
-    height: 86vh;
     margin-top: 65px;
     background-color: #3e497a;
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
-    font-weight: bold;
+    font-weight: bold;    
 }
 .banner p{
     max-width: 500px;
     margin: auto;
-    font-size: 2rem;
+    font-size: 3rem;
+    line-height: 5rem;
 }
 .banner img{
     width: 300px;
-    border-radius: 15px;
-    margin-left: 3rem;
+    border-radius: 15px;    
+    margin-top: 30px;
 }
 .flexcontainer{
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: space-around;
 }
 .flexcontainer>div:first-of-type{
     width: 40%;
+}
+.flexcontainer>div:nth-of-type(2){
+    overflow: hidden;
 }
