@@ -12,8 +12,8 @@ function Header() {
             </div>
             <nav>
                 <ul>
-                    <li><Link to={'/projects'}>Projects</Link></li>
-                    <li><Link to={'/about'}>About</Link></li>
+                    <li><Link to={'/projects'}>View My Projects</Link></li>
+                    <li><Link to={'/about'}>Read About Me</Link></li>
                 </ul>
             </nav>
             <Outlet/>

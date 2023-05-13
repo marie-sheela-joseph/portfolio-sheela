@@ -4,6 +4,7 @@ import styles from './projects.module.css'
 import { data } from '../data'
 import Project from './Project'
 import Header from './Header'
+import Footer from './Footer'
 function Projects() {
   return (
     <div className={styles.projects}>
@@ -14,6 +15,7 @@ function Projects() {
         gitHubLink={project.gitHubLink}
         />)}
         </div>
+        <Footer/>
         <Outlet/>
     </div>
   )
