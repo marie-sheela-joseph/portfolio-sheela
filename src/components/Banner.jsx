@@ -5,8 +5,9 @@ function Banner() {
   return (
     <section className={styles.banner}>
         <div>
+          <img src='./assets/sheela_graduation.jpg' alt='sheela'/>
         <h1>Hi! My name is Sheela</h1>
-        <p>A software developer with passion to create and learn.</p>
+        <p>A Software Engineer passionate to create and learn.</p>
         </div>
     </section>
   )

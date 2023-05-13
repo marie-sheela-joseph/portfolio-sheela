@@ -1,5 +1,5 @@
 .banner{
-    height: 80vh;
+    /* height: 80vh; */
     margin-top: 87px;
     background-color: #3e497a;
     display: flex;
@@ -9,4 +9,12 @@
 .banner p{
     max-width: 500px;
     margin: auto;
+}
+.banner>div{
+    text-align: center;
+}
+.banner img{
+    width: 300px;
+    
+    border-radius: 15px;
 }

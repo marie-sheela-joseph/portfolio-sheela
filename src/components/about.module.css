@@ -1,0 +1,48 @@
+.about{
+    background: #f0f0f0;
+    margin-top: 88px;    
+}
+.about h2{
+    margin-bottom: 10px;
+}
+.about__contentBlock ul{
+    text-align: center;
+    max-width: 600px;
+    margin: auto;
+}
+.about__contentBlock li{
+list-style-type: none;
+display: inline-block;
+background: #3e497a;  
+color: #f0f0f0;
+padding: 10px 7px;
+margin: 5px;
+border-radius: 3px;
+}
+.about__experience_logos{
+    text-align: center;
+}
+.about__experience_logos img{
+width: 250px;
+height: 70px;
+object-fit: contain;
+object-position: center;
+margin: 10px 30px;
+}
+.about__me__contentBlock{
+    line-height: 3rem;
+    letter-spacing: 2px;
+}
+.about__me__contentBlock .fullName{
+    color:#3e497a;
+    font-weight: bolder;
+    font-size: 2rem;
+}
+.about__me__contentBlock .degree{
+color: #3e497a;
+font-weight: bolder;
+font-size: 1.7rem;
+}
+.about__me__contentBlock p{
+    text-indent: 70px;
+}
