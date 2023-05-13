@@ -1,5 +1,6 @@
 .footer{
     background: #3e497a;
+    padding: 10px 0;
 }
 .footer ul{
     list-style-type: none;
@@ -8,5 +9,8 @@
 }
 .footer i{
     font-size: 40px;
-    padding: 0 10px;
+    padding: 5px;
+    color: #3e497a;
+    background: #f0f0f0;
+    margin: 0 10px;
 }
