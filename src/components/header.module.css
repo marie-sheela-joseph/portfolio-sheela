@@ -1,7 +1,7 @@
-.header{
+.header{    
     background: #3e497a;
-    padding: 10px 0;
- position: fixed;
+    padding: 20px 0;
+    position: fixed;
     top: 0; 
     left:0;
     right:0
@@ -11,13 +11,14 @@
     justify-content: center;
     list-style-type: none;
 }
-.header nav a{    
+.header a{    
     color: #f0f0f0;
-    padding: 0 10px;
+    margin: 0 25px;
     text-decoration: none;
     font-size: 2rem;
+    font-weight: bolder;
 }
-.header nav a:hover{
+.header a:hover{
     color: #e9d35b;
 }
 .header__content{

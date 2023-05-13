@@ -8,7 +8,7 @@ function Header() {
         <div className='container'>
             <div className={styles.header__content}>
             <div>
-                <Link to={'/'}><img src={`./assets/sheela_logo.png`} alt='logo'/></Link>
+                <Link to={'/'}>Home</Link>
             </div>
             <nav>
                 <ul>

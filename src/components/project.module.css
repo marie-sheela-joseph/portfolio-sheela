@@ -8,6 +8,9 @@
 .project a{
     color:#3e497a;
 }
+.project a:hover{
+    color: #e9d35b;
+}
 .project h3{
     padding: 10px 0;
 }

@@ -1,20 +1,28 @@
 .banner{
-    /* height: 80vh; */
-    margin-top: 87px;
+    height: 86vh;
+    margin-top: 65px;
     background-color: #3e497a;
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
+    font-weight: bold;
 }
 .banner p{
     max-width: 500px;
     margin: auto;
-}
-.banner>div{
-    text-align: center;
+    font-size: 2rem;
 }
 .banner img{
     width: 300px;
-    
     border-radius: 15px;
+    margin-left: 3rem;
+}
+.flexcontainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.flexcontainer>div:first-of-type{
+    width: 40%;
 }
