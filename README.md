@@ -22,13 +22,13 @@
 
 **Samsung Galaxy S8+ : 360px**
 
-![image](https://github.com/marie-sheela-joseph/portfolio-sheela/assets/92960836/7dd99635-1bd8-4ff6-9797-2cee72763617)
+![image](https://github.com/marie-sheela-joseph/portfolio-sheela/assets/92960836/1a2a2ed5-97a8-41ee-8b8c-09b88606a10a)
 
 =======
 
 **NestHub : 1024px**
 
-![image](https://github.com/marie-sheela-joseph/portfolio-sheela/assets/92960836/e8821a52-8597-46ed-983c-ffefd8cd767c)
+![image](https://github.com/marie-sheela-joseph/portfolio-sheela/assets/92960836/38428f1c-9c2e-47b8-88b4-0038c03ad3bf)
 
 =======
 
