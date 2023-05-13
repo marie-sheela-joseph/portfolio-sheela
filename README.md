@@ -1,19 +1,37 @@
-Output:
-Home:
+**Output:**
+**Home:**
 
-![image](https://github.com/marie-sheela-joseph/portfolio-sheela/assets/92960836/93424e26-0ed2-4066-9c03-67182d4f69be)
+![image](https://github.com/marie-sheela-joseph/portfolio-sheela/assets/92960836/23a32b5c-fda4-4ff2-8d8e-8fe1e183fc72)
 
-Projects:
+**Projects:**
 
-![image](https://github.com/marie-sheela-joseph/portfolio-sheela/assets/92960836/15a5ef5f-0ec8-425c-bc25-886d1e61e4a1)
+![image](https://github.com/marie-sheela-joseph/portfolio-sheela/assets/92960836/e6f2ea48-e7fa-4aec-a66c-83cac143d3be)
 
-![image](https://github.com/marie-sheela-joseph/portfolio-sheela/assets/92960836/f5dfef35-ddb3-4bd1-b6c9-b1990a0b8345)
+**About Me:**
 
-About Me:
+![image](https://github.com/marie-sheela-joseph/portfolio-sheela/assets/92960836/80b05020-7442-4ed7-bdf9-2bfa731cb773)
 
-![image](https://github.com/marie-sheela-joseph/portfolio-sheela/assets/92960836/aebb8a6b-7d11-4636-afbe-df9933d3ab56)
+=======
 
-![image](https://github.com/marie-sheela-joseph/portfolio-sheela/assets/92960836/a6ec07b9-a7c6-4dd4-983f-f4b7f723d589)
+**Responsive Web Design:**
+**ipad Air : 820px**
+
+![image](https://github.com/marie-sheela-joseph/portfolio-sheela/assets/92960836/07c7dcf0-71b6-4605-b21f-c977894f60ac)
+
+=======
+
+**Samsung Galaxy S8+ : 360px**
+
+![image](https://github.com/marie-sheela-joseph/portfolio-sheela/assets/92960836/7dd99635-1bd8-4ff6-9797-2cee72763617)
+
+=======
+
+**NestHub : 1024px**
+
+![image](https://github.com/marie-sheela-joseph/portfolio-sheela/assets/92960836/e8821a52-8597-46ed-983c-ffefd8cd767c)
+
+=======
+
 
 
 
