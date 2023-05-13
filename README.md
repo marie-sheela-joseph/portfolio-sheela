@@ -1,12 +1,17 @@
 Output:
+Home:
 
 ![image](https://github.com/marie-sheela-joseph/portfolio-sheela/assets/92960836/93424e26-0ed2-4066-9c03-67182d4f69be)
 
+Projects:
+
 ![image](https://github.com/marie-sheela-joseph/portfolio-sheela/assets/92960836/15a5ef5f-0ec8-425c-bc25-886d1e61e4a1)
 
-![image](https://github.com/marie-sheela-joseph/portfolio-sheela/assets/92960836/aebb8a6b-7d11-4636-afbe-df9933d3ab56)
-
 ![image](https://github.com/marie-sheela-joseph/portfolio-sheela/assets/92960836/f5dfef35-ddb3-4bd1-b6c9-b1990a0b8345)
+
+About Me:
+
+![image](https://github.com/marie-sheela-joseph/portfolio-sheela/assets/92960836/aebb8a6b-7d11-4636-afbe-df9933d3ab56)
 
 ![image](https://github.com/marie-sheela-joseph/portfolio-sheela/assets/92960836/a6ec07b9-a7c6-4dd4-983f-f4b7f723d589)
 
