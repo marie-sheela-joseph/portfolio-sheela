@@ -5,15 +5,16 @@ export const data = {
         gitHubLink: 'https://github.com/marie-sheela-joseph/amazon-clone-ts'
     },
     {
-        id: 2, title: 'Weather', link: 'https://weather-ts-c1f82.web.app/', imgSrc: './assets/weather.png', description: 'Skills: React, Typescript,HTML 5, CSS 3, javascript',
+        id: 4, title: 'Food chow', link: ' https://food-chow-react.web.app/', imgSrc: './assets/food-chow.png', description: 'Skills: React,  Unit Tests - Jest, React Testing Library, HTML 5, CSS 3, javascript, Responsive Web Design',
+        gitHubLink: 'https://github.com/marie-sheela-joseph/food-chow-react'
+    },
+    {
+        id: 3, title: 'Weather', link: 'https://weather-ts-c1f82.web.app/', imgSrc: './assets/weather.png', description: 'Skills: React, Typescript,HTML 5, CSS 3, javascript',
         gitHubLink: 'https://github.com/marie-sheela-joseph/weather-TS'
     },
     {
-        id: 3, title: 'Agro Harvest', link: 'https://agro-harvest-31b34.web.app/', imgSrc: './assets/agroHarvest.png', description: 'Skills: React,  HTML 5, CSS 3, javascript, Responsive Web Design',
+        id: 4, title: 'Agro Harvest', link: 'https://agro-harvest-31b34.web.app/', imgSrc: './assets/agroHarvest.png', description: 'Skills: React,  HTML 5, CSS 3, javascript, Responsive Web Design',
         gitHubLink: 'https://github.com/marie-sheela-joseph/agro-harvest-react'
-    },
-    {
-        id: 4, title: 'Food chow', link: ' https://food-chow-react.web.app/', imgSrc: './assets/food-chow.png', description: 'Skills: React,  HTML 5, CSS 3, javascript, Responsive Web Design',
-        gitHubLink: 'https://github.com/marie-sheela-joseph/food-chow-react'
-    }]
+    }
+    ]
 }
