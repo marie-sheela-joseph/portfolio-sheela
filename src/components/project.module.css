@@ -42,6 +42,7 @@ transition: 0.3s ease-in;
 color: #f0f0f0;
 padding:10px 3px;
 border-radius: 4px;
+margin: 5px;
 }
 .project__links i{
     font-size: 20px;
