@@ -4,7 +4,7 @@ function Project({title,link,imgSrc,description,gitHubLink}) {
   return (
     <div className={`${styles.project} col-s-6 col-l-4`}>        
         <h3>{title}</h3>    
-        <div>
+        <div className={styles.project__image}>
             <a href={link} target='_blank'><img src={imgSrc} alt={title}/></a>
         </div>            
         <div>

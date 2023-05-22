@@ -25,6 +25,9 @@ transition: 0.3s ease-in;
     text-align: center;
     color: #000;
 }
+.project__image{
+    text-align: center;
+}
 .project img{
     width: 500px;
     height: 300px;
