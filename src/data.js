@@ -24,6 +24,7 @@ export const data = {
                 "skills": {
                     "front_end": "React, Typescript, HTML 5, CSS 3, javascript, Responsive Web Design",
                     "version_control": "Git, GitHub",
+                    "ci_cd": "Docker, Docker Hub, Github Actions",
                     "docker_image": "docker pull mariesheela/amazon-clone-ts:main"
                 }
             },
@@ -31,7 +32,7 @@ export const data = {
         },
         {
             id: 4,
-            title: "Food chow",
+            title: "Food Chow",
             link: " https://food-chow-react.web.app/",
             imgSrc: "./assets/food-chow.png",
             description: {
@@ -54,6 +55,8 @@ export const data = {
                 "skills": {
                     "front_end": "TypeScript, React, HTML 5, CSS 3, javascript, Responsive Web Design",
                     "version_control": "Git, GitHub",
+                    "ci_cd": "Docker, Docker Hub, Github Actions",
+                    "docker_image": "docker pull mariesheela/weather-ts:main"
                 }
             },
             gitHubLink: "https://github.com/marie-sheela-joseph/weather-TS"
@@ -67,6 +70,8 @@ export const data = {
                 "skills": {
                     "front_end": "React, HTML 5, CSS 3, javascript, Responsive Web Design",
                     "version_control": "Git, GitHub",
+                    "ci_cd": "Docker, Docker Hub, Github Actions",
+                    "docker_image": "docker pull mariesheela/agro-harvest-react:main"
                 }
             },
             gitHubLink: "https://github.com/marie-sheela-joseph/agro-harvest-react"
