@@ -18,7 +18,7 @@ export const data = {
         {
             id: 1,
             title: "Amazon clone",
-            link: "https://clone-ts-21ac7.web.app/",
+            link: "https://ama-zon-clone-ts-sheela.web.app/",
             imgSrc: "./assets/amazon.png",
             description: {
                 "skills": {
@@ -33,7 +33,7 @@ export const data = {
         {
             id: 4,
             title: "Food Chow",
-            link: " https://food-chow-react.web.app/",
+            link: "https://food-chow-sheela.web.app/",
             imgSrc: "./assets/food-chow.png",
             description: {
                 "skills": {
@@ -49,7 +49,7 @@ export const data = {
         {
             id: 3,
             title: "Weather",
-            link: "https://weather-ts-c1f82.web.app/",
+            link: "https://weather-ts-sheela.web.app/",
             imgSrc: "./assets/weather.png",
             description: {
                 "skills": {
@@ -64,7 +64,7 @@ export const data = {
         {
             id: 4,
             title: "Agro Harvest",
-            link: "https://agro-harvest-31b34.web.app/",
+            link: "https://agro-harvest-sheela.web.app/",
             imgSrc: "./assets/agroHarvest.png",
             description: {
                 "skills": {
