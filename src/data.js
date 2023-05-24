@@ -31,7 +31,7 @@ export const data = {
             gitHubLink: "https://github.com/marie-sheela-joseph/amazon-clone-ts"
         },
         {
-            id: 4,
+            id: 2,
             title: "Food Chow",
             link: "https://food-chow-sheela.web.app/",
             imgSrc: "./assets/food-chow.png",
