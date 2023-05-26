@@ -41,7 +41,7 @@ export const data = {
                     "version_control": "Git, GitHub",
                     "testing": "Jest, React Testing Library",
                     "ci_cd": "Docker, Docker Hub, Github Actions",
-                    "docker_image": "docker pull mariesheela/food-chow-react:main"
+                    "docker_image": "docker pull mariesheela/food-chow:main"
                 }
             },
             gitHubLink: "https://github.com/marie-sheela-joseph/food-chow-react"
