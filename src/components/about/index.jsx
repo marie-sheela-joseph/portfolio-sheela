@@ -1,9 +1,10 @@
 import React from 'react'
 import { Outlet } from 'react-router-dom'
-import Header from './Header'
-import styles from './about.module.css'
-import { data } from '../data'
-import Footer from './Footer'
+import Header from '../header'
+import styles from './styles.module.css'
+import { data } from '../../data'
+import Footer from '../footer'
+
 function About() {
   return (
     <div className={styles.about}>
