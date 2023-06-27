@@ -45,15 +45,16 @@ export const data = {
             imgSrc: "./assets/food-chow.png",
             details: {
                 "skills": {
-                    "Front End": "React, HTML 5, CSS 3, javascript, Responsive Web Design",
+                    "Front End": "React, HTML 5, CSS 3, javascript, Responsive Web Design, react-router",
                     "Back End": "Node, Express",
                     "Database": "MongoDB Atlas",
+                    "Testing": "Jest, React Testing Library",
                     "Version Control": "Git, GitHub",
-                    "testing": "Jest, React Testing Library",
+                    "Project Management": "Jira",
                     "Continuous Integration / Continuous Deployment": "Docker, Docker Hub, Github Actions",
                     "Docker Image": "docker pull mariesheela/food-chow:main",
                 },
-                "description": "MERN Full Stack Web application - Food Delivery from Multi cuisine restaurants in Paris to practice Full stack MERN app. Includes image Carousel, routing, mega menu",
+                "description": "MERN Full Stack Web application - Food Delivery from Multi cuisine restaurants in Paris to practice Full stack MERN app. Includes image Carousel, routing, mega menu. Can add items to cart, place order, view orders",
                 "status": "in progress"
             },
             gitHubLink: "https://github.com/marie-sheela-joseph/food-chow-react",
