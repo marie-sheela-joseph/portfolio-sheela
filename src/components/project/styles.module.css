@@ -29,9 +29,9 @@ transition: 0.3s ease-in;
     text-align: center;
 }
 .project img{
-    width: 500px;
-    height: 300px;
-    object-fit: cover;
+     /* width: 300px; */
+    height: 300px; 
+    object-fit: contain;
     object-position: center;
 }
 .project__links{
@@ -42,7 +42,6 @@ transition: 0.3s ease-in;
 }
 .project__links a{
     background: #3e497a;
-/* color: #f0f0f0; */
 padding:10px 3px;
 border-radius: 4px;
 margin: 5px;
@@ -58,4 +57,7 @@ margin: 5px;
 }
 .project__content{
     padding: 10px;
+}
+.project__content span{
+    font-weight: 200;
 }
