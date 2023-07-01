@@ -22,43 +22,37 @@ export const data = {
     projects: [
         {
             id: 1,
-            title: "Amazon clone",
-            link: "https://ama-zon-clone-ts-sheela.web.app/",
-            imgSrc: "./assets/amazon.png",
+            title: "Inventory Filtering",
+            link: "https://map-inventory-filter-sheela.web.app/",
+            imgSrc: "./assets/inventory.png",
             details: {
                 "skills": {
-                    "Front End": "React, Typescript, HTML 5, CSS 3, javascript, Responsive Web Design",
+                    "Front End": "React, HTML 5, CSS 3, javascript, Responsive Web Design",
                     "Version Control": "Git, GitHub",
-                    "Continuous Integration / Continuous Deployment": "Docker, Docker Hub, Github Actions",
-                    "Docker Image": "docker pull mariesheela/amazon-clone-ts:main",
                 },
-                "description": "A website resembling Amazon. It has authentication and can add items to cart. To practice ContextAPI , Typescript, Firebase authentication, docker",
+                "description": "supermarket Inventory filtering to practice map data structure",
                 "status": "completed"
             },
-            gitHubLink: "https://github.com/marie-sheela-joseph/amazon-clone-ts",
+            gitHubLink: "https://github.com/marie-sheela-joseph/map-data-structure-practice",
             gitHubRepositoryStatus: "public"
         },
         {
             id: 2,
-            title: "Food",
-            link: "https://food-chow-sheela.web.app/",
-            imgSrc: "./assets/food-chow.png",
+            title: "Agro Harvest",
+            link: "https://agro-harvest-sheela.web.app/",
+            imgSrc: "./assets/agroHarvest.png",
             details: {
                 "skills": {
-                    "Front End": "React, HTML 5, CSS 3, javascript, Responsive Web Design, react-router",
-                    "Back End": "Node, Express",
-                    "Database": "MongoDB Atlas",
-                    "Testing": "Jest, React Testing Library",
+                    "Front End": "React, HTML 5, CSS 3, javascript, Responsive Web Design",
                     "Version Control": "Git, GitHub",
-                    "Project Management": "Jira",
                     "Continuous Integration / Continuous Deployment": "Docker, Docker Hub, Github Actions",
-                    "Docker Image": "docker pull mariesheela/food-chow:main",
+                    "Docker Image": "docker pull mariesheela/agro-harvest-react:main",
                 },
-                "description": "MERN Full Stack Web application - Food Delivery from Multi cuisine restaurants in Paris to practice Full stack MERN app. Includes image Carousel, routing, mega menu. Can add items to cart, place order, view orders",
-                "status": "in progress"
+                "description": "Landing page of Agriculture website to practice thinking in react- components and jsx",
+                "status": "completed"
             },
-            gitHubLink: "https://github.com/marie-sheela-joseph/food-chow-react",
-            gitHubRepositoryStatus: "private"
+            gitHubLink: "https://github.com/marie-sheela-joseph/agro-harvest-react",
+            gitHubRepositoryStatus: "public"
         },
         {
             id: 3,
@@ -80,37 +74,45 @@ export const data = {
         },
         {
             id: 4,
-            title: "Agro Harvest",
-            link: "https://agro-harvest-sheela.web.app/",
-            imgSrc: "./assets/agroHarvest.png",
+            title: "Amazon clone",
+            link: "https://ama-zon-clone-ts-sheela.web.app/",
+            imgSrc: "./assets/amazon.png",
             details: {
                 "skills": {
-                    "Front End": "React, HTML 5, CSS 3, javascript, Responsive Web Design",
+                    "Front End": "React, Typescript, HTML 5, CSS 3, javascript, Responsive Web Design",
                     "Version Control": "Git, GitHub",
                     "Continuous Integration / Continuous Deployment": "Docker, Docker Hub, Github Actions",
-                    "Docker Image": "docker pull mariesheela/agro-harvest-react:main",
+                    "Docker Image": "docker pull mariesheela/amazon-clone-ts:main",
                 },
-                "description": "Landing page of Agriculture website to practice thinking in react- components and jsx",
+                "description": "A website resembling Amazon. It has authentication and can add items to cart. To practice ContextAPI , Typescript, Firebase authentication, docker",
                 "status": "completed"
             },
-            gitHubLink: "https://github.com/marie-sheela-joseph/agro-harvest-react",
+            gitHubLink: "https://github.com/marie-sheela-joseph/amazon-clone-ts",
             gitHubRepositoryStatus: "public"
         },
         {
             id: 5,
-            title: "Inventory Filtering",
-            link: "https://map-inventory-filter-sheela.web.app/",
-            imgSrc: "./assets/inventory.png",
+            title: "Food",
+            link: "https://food-chow-sheela.web.app/",
+            imgSrc: "./assets/food.png",
             details: {
                 "skills": {
-                    "Front End": "React, HTML 5, CSS 3, javascript, Responsive Web Design",
+                    "Front End": "React, HTML 5, CSS 3, javascript, Responsive Web Design, react-router",
+                    "Back End": "Node, Express",
+                    "Database": "MongoDB Atlas",
+                    "Testing": "Jest, React Testing Library",
                     "Version Control": "Git, GitHub",
+                    "Project Management": "Jira",
+                    "Continuous Integration / Continuous Deployment": "Docker, Docker Hub, Github Actions",
+                    "Docker Image": "docker pull mariesheela/food-chow:main",
                 },
-                "description": "supermarket Inventory filtering to practice map data structure",
-                "status": "completed"
+                "description": `Full Stack Web application to place food delivery orders from Multi cuisine restaurants in Paris.`,
+                "functions": `User can place orders from any restaurant, view list of past orders, submit rating of past orders for restaurant and menu Items and read blogs. `,
+                "technicalHighlights": `Includes image Carousel, accordion, owl Carousel, routing, paging and other features.`,
+                "status": "in progress"
             },
-            gitHubLink: "https://github.com/marie-sheela-joseph/map-data-structure-practice",
-            gitHubRepositoryStatus: "public"
+            gitHubLink: "https://github.com/marie-sheela-joseph/food-chow-react",
+            gitHubRepositoryStatus: "private"
         }
     ]
 }
