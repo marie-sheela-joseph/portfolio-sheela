@@ -1,7 +1,8 @@
 import React from 'react'
 import styles from './styles.module.css'
 
-function Project({title,link,imgSrc,skills,description,status,gitHubLink,gitHubRepositoryStatus}) {     
+function Project({title,link,imgSrc,skills,description,functions,technicalHighlights,status,gitHubLink,gitHubRepositoryStatus}) {   
+  console.log(functions,technicalHighlights)  
   const skillsList=Object.entries(skills).map((item)=>{            
     const[key,value]=item
     return <p key={key}><span>{key}</span> : {value}</p>})
@@ -19,6 +20,8 @@ function Project({title,link,imgSrc,skills,description,status,gitHubLink,gitHubR
         <div className={styles.project__content}>          
           {skillsList}          
           <p><span>Description:</span> {description}</p>
+          {functions && <p><span>Functions:</span> {functions}</p>}
+          {technicalHighlights && <p><span>Technical Highlights:</span> {technicalHighlights}</p>}
           <p><span>Status:</span> {status}</p>
         </div>
       </div>

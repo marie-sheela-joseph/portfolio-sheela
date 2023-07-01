@@ -12,13 +12,15 @@ function Projects() {
       <Header/>
       <h2>My Personal Projects</h2>
         <div className={styles.projects__content}>
-        {data.projects.map((project)=><Project 
+        {data.projects.slice().reverse().map((project)=><Project 
         key={project.id} 
         title={project.title}
         link={project.link} 
         imgSrc={project.imgSrc} 
         skills={project.details.skills}
         description={project.details.description}
+        functions={project.details.functions}
+        technicalHighlights={project.details.technicalHighlights}
         status={project.details.status}        
         gitHubLink={project.gitHubLink}
         gitHubRepositoryStatus={project.gitHubRepositoryStatus}
