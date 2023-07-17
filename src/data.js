@@ -97,7 +97,7 @@ export const data = {
             imgSrc: "./assets/food.png",
             details: {
                 "skills": {
-                    "Front End": "React, HTML 5, CSS 3, javascript, Responsive Web Design, react-router",
+                    "Front End": "React, HTML 5, CSS 3, javascript, Typescript, Responsive Web Design, react-router",
                     "Back End": "Node, Express",
                     "Database": "MongoDB Atlas",
                     "Testing": "Jest, React Testing Library",
@@ -107,9 +107,18 @@ export const data = {
                     "Docker Image": "docker pull mariesheela/food-chow:main",
                 },
                 "description": `Full Stack Web application to place food delivery orders from Multi cuisine restaurants in Paris.`,
-                "functions": `User can place orders from any restaurant, view list of past orders, submit rating of past orders for restaurant and menu Items and read blogs. `,
+                "features": [`User can place orders from restaurants`,
+                    `View list of past orders`,
+                    `Submit rating of past orders`,
+                    `Read blogs, filter blogs by category`,
+                    `Filter Restaurants by cuisine`,
+                    `Reorder any older order with one click`],
+                "constraintsEnforced": [`User can add items from same restaurant only to the cart`,
+                    `For each order user can select items from only one restaurant`,
+                    `Minimum order amount for restaurant must satisfy to place order`],
                 "technicalHighlights": `Includes image Carousel, accordion, owl Carousel, routing, paging and other features.`,
-                "status": "in progress"
+                "status": "in progress",
+                "upcomingFeatures": [`Firebase authentication`, `Add map`, `Careers page`, `and many more...`]
             },
             gitHubLink: "https://github.com/marie-sheela-joseph/food-chow-react",
             gitHubRepositoryStatus: "private"

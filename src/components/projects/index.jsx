@@ -19,11 +19,13 @@ function Projects() {
         imgSrc={project.imgSrc} 
         skills={project.details.skills}
         description={project.details.description}
-        functions={project.details.functions}
+        features={project.details.features}
+        constraintsEnforced={project.details.constraintsEnforced}
         technicalHighlights={project.details.technicalHighlights}
         status={project.details.status}        
         gitHubLink={project.gitHubLink}
         gitHubRepositoryStatus={project.gitHubRepositoryStatus}
+        upcomingFeatures={project.details.upcomingFeatures}
         />)}
         </div>
         <Footer/>
