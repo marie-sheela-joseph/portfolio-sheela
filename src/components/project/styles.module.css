@@ -28,8 +28,7 @@ transition: 0.3s ease-in;
 .project__image{
     text-align: center;
 }
-.project img{
-     /* width: 300px; */
+.project img{     
     height: 300px; 
     object-fit: contain;
     object-position: center;
@@ -52,12 +51,15 @@ margin: 5px;
 .project p{
     margin-bottom: 10px;
 }
-.project p span{
-    font-weight: 900;
+.project span{
+    font-weight: 800;
 }
 .project__content{
     padding: 10px;
 }
-.project__content span{
-    font-weight: 200;
+.project li{
+    margin-left: 10px;
+}
+.project div{
+    margin-bottom: 10px;
 }
