@@ -92,6 +92,28 @@ export const data = {
         },
         {
             id: 5,
+            title: "Datacentral Paris",
+            link: "https://datacentralparissheela.web.app/",
+            imgSrc: "./assets/datacentralParis.png",
+            details: {
+                "skills": {
+                    "Front End": "React, HTML 5, CSS 3, javascript, Typescript, Responsive Web Design, react-router",
+                    "Back End": "Node, Express",
+                    "Database": "MongoDB Atlas",
+                    "Version Control": "Git, GitHub",
+                    "Continuous Integration / Continuous Deployment": "docker-compose"
+                },
+                "description": `Full stack Web application (MERN stack) to digitally mirror the physical infrastructure in a data center eg. DataCentral Paris`,
+                "features": [`View list of Racks`,
+                    `View devices in each Rack`,
+                    `Read About the company`],
+                "status": "completed",
+            },
+            gitHubLink: "https://github.com/marie-sheela-joseph/data-center",
+            gitHubRepositoryStatus: "public"
+        },
+        {
+            id: 6,
             title: "Food",
             link: "https://food-chow-sheela.web.app/",
             imgSrc: "./assets/food.png",
